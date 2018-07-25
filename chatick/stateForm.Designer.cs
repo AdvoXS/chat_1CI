@@ -68,7 +68,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(290, 39);
             this.label4.TabIndex = 3;
-            this.label4.Text = "-Добавлено окно дополнительной информации\r\n-Подключена поддержка СКВ - git\r\n-Тепе" +
+            this.label4.Text = "-Добавлeно окно дополнительной информации\r\n-Подключена поддержка СКВ - git\r\n-Тепе" +
     "рь доступен репозиторий github: AdvoXS/Chat_1CI";
             // 
             // stateForm
