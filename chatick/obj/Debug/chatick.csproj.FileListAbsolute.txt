@@ -1,0 +1,25 @@
+C:\Users\Fox\source\repos\chatick\chatick\obj\Debug\chatick.csprojResolveAssemblyReference.cache
+C:\Users\Fox\source\repos\chatick\chatick\obj\Debug\chatick.Form1.resources
+C:\Users\Fox\source\repos\chatick\chatick\obj\Debug\chatick.Properties.Resources.resources
+C:\Users\Fox\source\repos\chatick\chatick\obj\Debug\chatick.csproj.GenerateResource.Cache
+C:\Users\Fox\source\repos\chatick\chatick\obj\Debug\chatick.csproj.CoreCompileInputs.cache
+C:\Users\Fox\source\repos\chatick\chatick\obj\Debug\chatick.statusForm.resources
+C:\Users\Fox\source\repos\chatick\chatick\obj\Debug\chatick.setupForm.resources
+C:\Users\Fox\source\repos\chatick\chatick\bin\Debug\Secure chat.exe.config
+C:\Users\Fox\source\repos\chatick\chatick\bin\Debug\Secure chat.exe
+C:\Users\Fox\source\repos\chatick\chatick\bin\Debug\Secure chat.pdb
+C:\Users\Fox\source\repos\chatick\chatick\obj\Debug\Secure chat.exe
+C:\Users\Fox\source\repos\chatick\chatick\obj\Debug\Secure chat.pdb
+F:\chatick\chatick\bin\Debug\Secure chat.exe.config
+F:\chatick\chatick\bin\Debug\Secure chat.exe
+F:\chatick\chatick\bin\Debug\Secure chat.pdb
+F:\chatick\chatick\obj\Debug\chatick.csprojResolveAssemblyReference.cache
+F:\chatick\chatick\obj\Debug\chatick.Form1.resources
+F:\chatick\chatick\obj\Debug\chatick.Properties.Resources.resources
+F:\chatick\chatick\obj\Debug\chatick.setupForm.resources
+F:\chatick\chatick\obj\Debug\chatick.csproj.GenerateResource.cache
+F:\chatick\chatick\obj\Debug\chatick.csproj.CoreCompileInputs.cache
+F:\chatick\chatick\obj\Debug\Secure chat.exe
+F:\chatick\chatick\obj\Debug\Secure chat.pdb
+F:\chatick\chatick\obj\Debug\chatick.openFile.resources
+F:\chatick\chatick\obj\Debug\chatick.titul.resources
