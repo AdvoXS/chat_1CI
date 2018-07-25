@@ -39,9 +39,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(119, 13);
+            this.label1.Size = new System.Drawing.Size(126, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Версия ПО: 0.012 blue";
+            this.label1.Text = "Версия ПО: 0.012 green";
             // 
             // label2
             // 
@@ -76,7 +76,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.BackColor = System.Drawing.Color.LimeGreen;
             this.ClientSize = new System.Drawing.Size(408, 105);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
