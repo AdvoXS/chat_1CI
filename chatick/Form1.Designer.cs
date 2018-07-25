@@ -57,6 +57,7 @@
             this.справкаToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.чтоТакоеЗащищенныйРежимToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.оПрограммеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.statusToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip2.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -227,7 +228,7 @@
             // 
             this.clearChatToolStripMenuItem1.Image = ((System.Drawing.Image)(resources.GetObject("clearChatToolStripMenuItem1.Image")));
             this.clearChatToolStripMenuItem1.Name = "clearChatToolStripMenuItem1";
-            this.clearChatToolStripMenuItem1.Size = new System.Drawing.Size(147, 22);
+            this.clearChatToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
             this.clearChatToolStripMenuItem1.Text = "Очистить чат";
             this.clearChatToolStripMenuItem1.Click += new System.EventHandler(this.clearChatToolStripMenuItem1_Click);
             // 
@@ -275,7 +276,8 @@
             // 
             this.справкаToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.чтоТакоеЗащищенныйРежимToolStripMenuItem,
-            this.оПрограммеToolStripMenuItem});
+            this.оПрограммеToolStripMenuItem,
+            this.statusToolStripMenuItem});
             this.справкаToolStripMenuItem.Name = "справкаToolStripMenuItem";
             this.справкаToolStripMenuItem.Size = new System.Drawing.Size(65, 20);
             this.справкаToolStripMenuItem.Text = "Справка";
@@ -294,6 +296,13 @@
             this.оПрограммеToolStripMenuItem.Size = new System.Drawing.Size(252, 22);
             this.оПрограммеToolStripMenuItem.Text = "О программе";
             this.оПрограммеToolStripMenuItem.Click += new System.EventHandler(this.оПрограммеToolStripMenuItem_Click);
+            // 
+            // statusToolStripMenuItem
+            // 
+            this.statusToolStripMenuItem.Name = "statusToolStripMenuItem";
+            this.statusToolStripMenuItem.Size = new System.Drawing.Size(252, 22);
+            this.statusToolStripMenuItem.Text = "Status";
+            this.statusToolStripMenuItem.Click += new System.EventHandler(this.statusToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -355,6 +364,7 @@
         private System.Windows.Forms.ToolStripMenuItem показыватьУчастниковЧатаToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem показыватьМойНикToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem показыватьПредупрежденияБезопасностиToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem statusToolStripMenuItem;
     }
 }
 

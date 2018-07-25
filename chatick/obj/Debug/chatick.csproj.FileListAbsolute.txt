@@ -23,3 +23,4 @@ F:\chatick\chatick\obj\Debug\Secure chat.exe
 F:\chatick\chatick\obj\Debug\Secure chat.pdb
 F:\chatick\chatick\obj\Debug\chatick.openFile.resources
 F:\chatick\chatick\obj\Debug\chatick.titul.resources
+F:\chatick\chatick\obj\Debug\chatick.stateForm.resources

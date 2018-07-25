@@ -500,6 +500,12 @@ namespace chatick
         {
             if (e.KeyChar == 13) textBox3.Focus();
         }
+
+        private void statusToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            stateForm f = new stateForm();
+            f.Show();
+        }
     }
 }
     

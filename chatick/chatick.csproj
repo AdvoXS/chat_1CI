@@ -68,6 +68,12 @@
     <Compile Include="setupForm.Designer.cs">
       <DependentUpon>setupForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="stateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stateForm.Designer.cs">
+      <DependentUpon>stateForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="titul.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,6 +98,9 @@
     </Compile>
     <EmbeddedResource Include="setupForm.resx">
       <DependentUpon>setupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stateForm.resx">
+      <DependentUpon>stateForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="titul.resx">
       <DependentUpon>titul.cs</DependentUpon>
